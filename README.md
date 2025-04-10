@@ -10,25 +10,51 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Software engineering is a branch of computer science that deals in developing testing and maintaining software.
 
-Reliability: it ensures that software functions as intended without bias particularly in critical applications.
+- Reliability: it ensures that software functions as intended without bias particularly in critical applications.
 
-Security: it involves implementing protective practices such authorization, encryption and authentication to safeguard user information.
+- Security: it involves implementing protective practices such authorization, encryption and authentication to safeguard user information.
 
-Scalability and Flexibility: it ensures that the system can handle an increased load without affecting performance.
+- Scalability and Flexibility: it ensures that the system can handle an increased load without affecting performance.
 
-Efficiency: it helps to optimize developer workflow while maintaining high quality standards.
+- Efficiency: it helps to optimize developer workflow while maintaining high quality standards.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Mastering Complexity: it focuses on managing the increasing complexity of software systems. Techniques like modular programming, object oriented design and obstraction were introduced to break down large systems in manageable components.
+- Mastering Complexity: it focuses on managing the increasing complexity of software systems. Techniques like modular programming, object oriented design and obstraction were introduced to break down large systems in manageable components.
 
-Mastering Process: Emphasis was placed on formalizing the software development process. Methodologies like the Waterfall model, Agile and DevOpswere developed to ensure structured, efficient and iterative workflows.
+- Mastering Process: Emphasis was placed on formalizing the software development process. Methodologies like the Waterfall model, Agile and DevOpswere developed to ensure structured, efficient and iterative workflows.
 
-Mastering Machine: This milestone highlights advancements in hardware and software integration. It includes optimizing software to leverage evolving hardware capabilities such as multi-core processors and distributed systems for better performance and scalability.
+- Mastering Machine: This milestone highlights advancements in hardware and software integration. It includes optimizing software to leverage evolving hardware capabilities such as multi-core processors and distributed systems for better performance and scalability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+- Planning - Identify the software requirement or purpose and scope
+
+- Requirement Analysis - Identify the final user specification.
+
+- Design - Building the framework.
+
+- Coding - Converting software design into tangible code.
+
+- Testing - Examine the software for any bugs and glitches.
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall Methodology - Linear and sequenstial, each phase is completed before moving on.
+
+- There is low flexibility, changes are hard to incorporate once a phase is completed.
+
+- Customer feedback comes late, after the product is developed.
+
+- Testing is done at the end of the development process.
+
+Agile Methodology - Iterative and incrimental with multiple cycles.
+
+- High flexibility , adapts to changing requirements .
+
+- Regular customer feedback is incorporated into every sprint.
+
+- Testing is continuous and done after iteration.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
