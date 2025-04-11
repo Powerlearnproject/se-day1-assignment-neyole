@@ -18,8 +18,8 @@ jobs:
         uses: classroom-resources/autograding-io-grader@v1
         with:
           test-name: Quiz 1
-          setup-command: "" # If any setup is needed, add it here
-          command: echo "b) The process of designing, developing, and maintaining software"
+          setup-command: ""
+          command: echo "Which of the following bests describes software engineering?"
           input: |-
             a) The study of hardware components
             b) The process of designing, developing, and maintaining software
